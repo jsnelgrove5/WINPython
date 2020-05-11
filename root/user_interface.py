@@ -10,6 +10,8 @@ def main():
     df_deaths_nc = df_deaths[df_deaths['Province_State'] == 'North Carolina']
     print(df_deaths.tail())
 
+    pass
+
 
 if __name__ == '__main__':
     main()
