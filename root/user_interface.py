@@ -10,7 +10,7 @@ def main():
     df_deaths_nc = df_deaths[df_deaths['Province_State'] == 'North Carolina']
     print(df_deaths.tail())
 
-    pass
+    df_schools = pd.read_csv()
 
 
 if __name__ == '__main__':
